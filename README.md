@@ -71,19 +71,19 @@ arunprakash = {
     <td width="50%">
       <h3>👥 Employee Attrition Dashboard</h3>
       <p>Streamlit-based MIS dashboard tracking attrition trends and HR metrics — salary, tenure, satisfaction — enabling data-driven workforce planning decisions.</p>
-      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"> &nbsp;<a href="https://github.com/arun8nov">→ GitHub</a></p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"> &nbsp;<a href="https://github.com/arun8nov/Employee_Attrition">→ GitHub</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>🎬 JioHotstar Ad Vision</h3>
       <p>End-to-end pipeline capturing ad occurrence data from sports videos. Delivers interactive MIS dashboards and NL-based query reporting for brand visibility tracking.</p>
-      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> &nbsp;<a href="https://github.com/arun8nov">→ GitHub</a></p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> &nbsp;<a href="https://https://github.com/arun8nov/JioHotstar-Ad-Vision">→ GitHub</a></p>
     </td>
     <td width="50%">
       <h3>🌧 TN Rainfall Data Automation</h3>
       <p>Automated ETL pipeline for Tamil Nadu meteorological datasets — real-time weather pattern analysis and predictive insights for agricultural planning.</p>
-      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/ETL-grey?style=flat-square"> &nbsp;<a href="https://github.com/arun8nov">→ GitHub</a></p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/ETL-grey?style=flat-square"> &nbsp;<a href="https://github.com/arun8nov/TN_RainfallData_Automation">→ GitHub</a></p>
     </td>
   </tr>
 </table>
