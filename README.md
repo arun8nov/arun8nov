@@ -1,4 +1,4 @@
-<div align="middle">
+<div align="center">
 
 ```
  █████╗ ██████╗ ██╗   ██╗███╗   ██╗
@@ -29,7 +29,7 @@ arunprakash = {
     "domain"    : "AI & Machine Learning Trainrt",
     "location"  : "Chennai, India 🇮🇳",
     "company"   : "Hurix Systems Pvt. Ltd.",
-    "focus"     : ["MIS Reporting", "KPI Dashboards", "Data Automation"],
+    "focus"     : ["MIS Reporting", "Data Analytics", "KPI Dashboards", "Data Automation"],
 }
 ```
 
@@ -94,8 +94,7 @@ arunprakash = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=arun8nov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arun8nov&layout=compact&theme=tokyonight&hide_border=true" />
+
 
 </div>
 
